@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>gallery</title>
+<!-- TemplateEndEditable -->
+<link href="file:///C|/Users/HMepi/Google Drive/my_portfolio/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<link href="../../../../OneDrive - Cabarrus County Schools/my_portfolio/styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	 <ul>
+	  	<li><a href="../my_portfolio/about.html">About</a></li>
+		 <li><a href="../my_portfolio/blog.html">Blog</a></li>
+		 <li><a href="../my_portfolio/gallery.html">Gallery</a></li>
+		 <li><a href="../my_portfolio/contact.html">Contact</a></li>
+    </ul>  
+	</nav>
+  <!--Float time baby-->
+ <aside><h3>I'm currently a student trying not to fall asleep in this class as I do my work and copy brainbuffet.</h3></aside>
+
+<!-- TemplateBeginEditable name="main-content" -->
+<main>
+  <h1>EA Sports</h1>
+</main>
+<!-- TemplateEndEditable -->
+  <footer>Poggers</footer>
+</div>
+</body>
+</html>
